@@ -278,6 +278,20 @@ You run NeoDome on your own hardware:
 
 ---
 
+## How It Works: Three Interfaces
+
+NeoDome delivers value through three distinct perspectives:
+
+| Interface | What You Experience | When |
+|-----------|---------------------|------|
+| **The Story** | The public narrative — what it is, how it works, why it matters | First contact |
+| **The Proof** | Live systems running in real-time | Discovery call |
+| **The Ownership** | Your dashboard, your data, your control | After we work together |
+
+This isn't a sales trick. It's **transparency by design** — you see exactly what you're getting before, during, and after.
+
+---
+
 ## The Inside-Out Build
 
 NeoDome was built inside out:
@@ -333,6 +347,23 @@ NeoDome serves businesses that want **digital sovereignty**, not just another to
 | Growing companies hitting scaling limits | Current tools can't keep up |
 | Technical founders | Want ownership, not vendor lock-in |
 | Anyone who said "I wish I owned this" about their software | Time to stop renting |
+
+---
+
+## Who This Is NOT For
+
+NeoDome is not for everyone. I prefer honesty over volume.
+
+| If You're Looking For... | NeoDome Is Not The Right Fit |
+|--------------------------|-------------------------------|
+| **Cheap and fast** | I build systems that last. Fast and cheap means tech debt. |
+| **Vendor lock-in** | I build for your independence. If you want to be dependent, go elsewhere. |
+| **A one-time project** | This is an ongoing relationship. The system grows with you. |
+| **Hands-off ownership** | You own everything. That means you need to understand it. |
+| **Quick fixes** | I architect solutions. Quick fixes create long-term problems. |
+
+> *"I'd rather turn down a project than build something that traps a client."*
+> — Carlos Mazariegos, Founder
 
 ---
 
