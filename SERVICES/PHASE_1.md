@@ -5,7 +5,7 @@
 
 ## What this phase is
 
-Phase 1 establishes the infrastructure every service needs — a website with deployment pipeline and a connected Google environment. These are "yours from day one" services. You own the accounts, the code, the infrastructure. No monthly dependency on Neodigium.
+Phase 1 establishes the infrastructure every service needs — a website with deployment pipeline and a connected Google environment. These are "yours from day one" services. You own the accounts, the code, the infrastructure. No monthly dependency on my infrastructure.
 
 **One-time payment. You get:**
 - A website built to your specifications (any type)
@@ -95,7 +95,7 @@ Most businesses use Google tools informally — a personal Gmail, scattered Driv
 - **System:** N8N integrates with Gmail, Sheets, Calendar. Connections run silently.
 
 **This service is "yours from day one":**
-Unlike other services that run on Neodigium's infrastructure until Phase 3, Google Setup lives entirely under your Google account from the moment it's configured. There's nothing to transfer. It's already yours.
+Unlike other services that run on my infrastructure until Phase 3, Google Setup lives entirely under your Google account from the moment it's configured. There's nothing to transfer. It's already yours.
 
 **Dependencies:**
 | Dependency | Why |
@@ -106,7 +106,7 @@ Unlike other services that run on Neodigium's infrastructure until Phase 3, Goog
 
 **Autonomy Boost:**
 - Everything is under your Google account
-- No dependency on Neodigium's infrastructure
+- No dependency on my infrastructure
 - Setup documented for self-maintenance
 
 ---
